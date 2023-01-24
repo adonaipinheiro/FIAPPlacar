@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
   },
   background: {
     flex: 1,
-    opacity: 0.75,
+    opacity: 0.6,
   },
   contentArea: {
     flex: 1,
